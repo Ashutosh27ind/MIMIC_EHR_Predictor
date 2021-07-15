@@ -2,8 +2,6 @@
 
 FIDDLE – <b>F</b>lex<b>I</b>ble <b>D</b>ata-<b>D</b>riven pipe<b>L</b>in<b>E</b> – is a preprocessing pipeline that transforms structured EHR data into feature vectors that can be used with ML algorithms, relying on only a small number of user-defined arguments.
 
-Try a quick demo here: [tiny.cc/FIDDLE-demo](https://tiny.cc/FIDDLE-demo)
-
 Contributions and feedback are welcome; please submit issues on the GitHub site: https://github.com/shengpu1126/FIDDLE/issues. 
 
 ## Publications & Resources
