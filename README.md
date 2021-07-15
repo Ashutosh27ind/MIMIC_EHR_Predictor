@@ -11,5 +11,5 @@ This work focus on predicting 48-hour mortality for the ICU patients from MIMIC-
 ## CONFLICT OF INTEREST:  
 None Declared  
 
-### Author: Ashutosh Kumar
-### Contact : ashutoshind2017@outlook.com
+#### Author: Ashutosh Kumar
+#### Contact : ashutoshind2017@outlook.com
