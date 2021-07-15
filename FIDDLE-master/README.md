@@ -2,7 +2,6 @@
 
 FIDDLE – <b>F</b>lex<b>I</b>ble <b>D</b>ata-<b>D</b>riven pipe<b>L</b>in<b>E</b> – is a preprocessing pipeline that transforms structured EHR data into feature vectors that can be used with ML algorithms, relying on only a small number of user-defined arguments.
 
-Contributions and feedback are welcome; please submit issues on the GitHub site: https://github.com/shengpu1126/FIDDLE/issues. 
 
 
 ## System Requirements
@@ -81,4 +80,5 @@ Finally, for the summary statistics functions, we included by default the most b
 
 ## Experiments from the FIDDLE original authors :
 
+Contributions and feedback are welcome; please submit issues on the GitHub site: https://github.com/shengpu1126/FIDDLE/issues. 
 In order to show the flexibility and utility of FIDDLE, we conducted several experiments using data from MIMIC-III and eICU. The code to reproduce the results are located at https://gitlab.eecs.umich.edu/MLD3/FIDDLE_experiments. The experiments were performed using FIDDLE v0.1.0 and reported in the JAMIA paper; bug fixes and new functionalities have since been implemented and may affect the numerical results.
