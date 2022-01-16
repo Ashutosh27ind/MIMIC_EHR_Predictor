@@ -1,6 +1,8 @@
 # MIMIC_EHR_Predictor:
 This deals with predicting the patient mortality from the MIMIC-III v1.4 Database 
 
+![alt text](https://github.com/Ashutosh27ind/MIMIC_EHR_Predictor/blob/main/SHAP_Summary_PLot_ipynb.png?raw=true)
+
 ## About :  
 This work focus on predicting 48-hour mortality for the ICU patients from MIMIC-III Database with below objectives :
 1. Mortality prediction and benchmarking of the results 
