@@ -1,5 +1,5 @@
 # MIMIC_EHR_Predictor:
-This deals with predicting the patient mortality from the MIMIC-III v1.4 Database 
+This is a solution for Masters thesis work and aims at predicting the patient mortality from the MIMIC-III v1.4 Database 
 
 ![alt text](https://github.com/Ashutosh27ind/MIMIC_EHR_Predictor/blob/main/SHAP_Summary_PLot_ipynb.png?raw=true)
 
